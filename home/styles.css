@@ -1,8 +1,8 @@
 :root {
-  --maincolor: Blue;
+  --maincolor: White;
   --secondcolor: Black;
   --font: Arial;
-  --selectcolor: #00007c;
+  --selectcolor: Grey;
 }
 
 .line {
